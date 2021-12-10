@@ -1,4 +1,4 @@
-# Install arch linux alongside other linux w/ boot device
+# Install arch linux alongside other linux w/out boot device
 
 ## WHY?
 
